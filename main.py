@@ -1,1 +1,1 @@
-first home work
+print ("Hello, SYSTECH!")
